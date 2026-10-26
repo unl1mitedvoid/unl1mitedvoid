@@ -1,3 +1,2 @@
-<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/d9efaef7-ede1-4790-bff2-d320be42d757" />
-
+<img width="736" height="552" alt="image" src="https://github.com/user-attachments/assets/0ac20cae-1387-4ccb-80b2-28c766209152" />
 [strawpage](https://yuuttaaa.straw.page)
